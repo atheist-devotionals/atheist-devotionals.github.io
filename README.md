@@ -1,1 +1,0 @@
-# atheist-devotionals.github.io
