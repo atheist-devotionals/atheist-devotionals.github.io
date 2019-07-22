@@ -1,0 +1,37 @@
+# Site settings
+title: "The Atheist Devotionals"
+author: "E. A. Neufeld"
+email: boojumous.snark@gmail.com
+description: "Reflections on living a godless life."
+baseurl: ""
+url: "http://atheist-devotionals.github.io/"
+title_description: "Reflections on living a godless life."
+title_image: "/robot.jpg"
+google_analytics: "UA-20365477-4"
+disqus_account: cartenoire
+github_repository: https://github.com/atheist-devotionals/atheist-devotionals.github.io
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: 
+github_username:  
+instagram_username: 
+reddit_username: 
+linkedin_link: 
+google_plus_link: 
+stackoverflow_link: 
+xing_link:
+facebook_link:
+
+
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
